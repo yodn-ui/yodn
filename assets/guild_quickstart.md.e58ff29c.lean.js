@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.8b69c5e5.js";const y=JSON.parse('{"title":"快速启动","description":"","frontmatter":{},"headers":[],"relativePath":"guild/quickstart.md"}'),e={name:"guild/quickstart.md"},p=l("",7),t=[p];function c(o,i,r,C,A,d){return n(),a("div",null,t)}const _=s(e,[["render",c]]);export{y as __pageData,_ as default};
